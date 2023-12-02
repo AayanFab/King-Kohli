@@ -1,0 +1,32 @@
+
+#Copyright_Claim{
+    float: bottom;
+    position: fixed;
+    text-align: center;
+    bottom: 0;
+}
+.bio_btn{
+    font-size: 22px;
+    font-family: cursive;
+    width: 170px;
+}
+
+.heading{
+    font-size: 26px;
+    width: 100%;
+    margin: 0px;
+    font-family: cursive;
+    color: black;
+    background-color: yellow;
+}
+p{
+    font-size: 22px;
+    font-family: cursive;
+    color: yellow;
+}
+#backBTN{
+    font-size: 22px;
+    float: right;
+    font-family: cursive;
+    width: 150px;
+}
